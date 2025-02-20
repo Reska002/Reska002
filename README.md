@@ -26,6 +26,6 @@ Saya adalah pemula dalam Data Science, belajar di Booth Campe Purwadhika selama 
 
 ---
 
-*Terima Kasih Sudah Mengunjungi Profil Saya!* 🙏
+### **Terima Kasih Sudah Mengunjungi Profil Saya!** 🙏
 
-Saya sangat menghargai waktu yang Anda luangkan untuk melihat proyek dan karya yang saya bagikan. Jangan ragu untuk memberi masukan atau berkolaborasi. Semoga Anda menemukan sesuatu yang bermanfaat di sini! 😊
+Saya sangat menghargai waktu yang Anda luangkan untuk melihat proyek dan karya yang saya bagikan. Jangan ragu untuk memberi masukan atau berkolaborasi. Semoga Anda menemukan sesuatu yang bermanfaat di sini! 😊💻✨
