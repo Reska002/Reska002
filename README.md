@@ -1,9 +1,6 @@
 # 🚀✨ Selamat Datang di Profil GitHub Reska Julianti! 👩‍💻🎉
 
-Saya adalah pemula yang sedang belajar Data Science di Booth Campe Purwadhika selama 4 bulan terakhir. Saya memiliki latar belakang Akuntansi dan tertarik untuk menerapkan keterampilan analitis saya di bidang data science. 
-Saat ini, saya fokus untuk mempelajari konsep-konsep dasar seperti Python, SQL, dan teknik analisis data untuk membantu bisnis dalam pengambilan keputusan berbasis data. Saya berharap dapat memperoleh lebih banyak pengalaman dan berkontribusi pada proyek-proyek nyata.
-
-Karena saya masih dalam tahap belajar, jangan ragu untuk memberikan masukan atau saran. Setiap umpan balik sangat berharga bagi perkembangan saya ke depan. 🙏
+Saya adalah pemula dalam Data Science, belajar di Booth Campe Purwadhika selama 4 bulan. Dengan latar belakang Akuntansi, saya tertarik menerapkan keterampilan analitis di bidang ini, khususnya dalam Python, SQL, dan analisis data untuk membantu keputusan bisnis berbasis data. Saya sangat antusias untuk terus belajar dan berkembang. Jangan ragu memberi masukan atau saran, setiap feedback sangat berharga bagi saya! 😊🙏
 
 ---
 
