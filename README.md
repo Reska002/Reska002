@@ -2,6 +2,7 @@
 
 Saya adalah pemula yang sedang belajar Data Science di Booth Campe Purwadhika selama 4 bulan terakhir. Saya memiliki latar belakang Akuntansi dan tertarik untuk menerapkan keterampilan analitis saya di bidang data science. 
 Saat ini, saya fokus untuk mempelajari konsep-konsep dasar seperti Python, SQL, dan teknik analisis data untuk membantu bisnis dalam pengambilan keputusan berbasis data. Saya berharap dapat memperoleh lebih banyak pengalaman dan berkontribusi pada proyek-proyek nyata.
+
 Karena saya masih dalam tahap belajar, jangan ragu untuk memberikan masukan atau saran. Setiap umpan balik sangat berharga bagi perkembangan saya ke depan. 🙏
 
 ---
@@ -28,5 +29,6 @@ Karena saya masih dalam tahap belajar, jangan ragu untuk memberikan masukan atau
 
 ---
 
-Terima Kasih Sudah Mengunjungi Profil Saya! 🙏
+*Terima Kasih Sudah Mengunjungi Profil Saya!* 🙏
+
 Saya sangat menghargai waktu yang Anda luangkan untuk melihat proyek dan karya yang saya bagikan. Jangan ragu untuk memberi masukan atau berkolaborasi. Semoga Anda menemukan sesuatu yang bermanfaat di sini! 😊
