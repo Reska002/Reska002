@@ -3,8 +3,6 @@
 I am a beginner in Data Science, currently studying at Purwadhika Bootcamp for four months. With a background in Accounting, I am eager to apply analytical skills in this field, particularly in Python, SQL, and data analysis, to support data-driven business decisions. 
 I am highly enthusiastic about continuous learning and growth. Please feel free to provide any feedback or suggestions—every piece of feedback is valuable to me! 😊🙏
 
-Saya adalah pemula dalam Data Science, belajar di Booth Campe Purwadhika selama 4 bulan. Dengan latar belakang Akuntansi, saya tertarik menerapkan keterampilan analitis di bidang ini, khususnya dalam Python, SQL, dan analisis data untuk membantu keputusan bisnis berbasis data. Saya sangat antusias untuk terus belajar dan berkembang. Jangan ragu memberi masukan atau saran, setiap feedback sangat berharga bagi saya! 😊🙏
-
 ---
 
 ## 🔧💻 Tech Stack
@@ -32,5 +30,3 @@ Saya adalah pemula dalam Data Science, belajar di Booth Campe Purwadhika selama 
 ### **Thank You for Visiting My Profile!** 🙏
 
 I truly appreciate the time you’ve taken to explore my projects and work. Feel free to share your feedback or collaborate—I’d love to connect! Hope you find something valuable here. 😊💻✨
-
-Saya sangat menghargai waktu yang Anda luangkan untuk melihat proyek dan karya yang saya bagikan. Jangan ragu untuk memberi masukan atau berkolaborasi. Semoga Anda menemukan sesuatu yang bermanfaat di sini! 😊💻✨
